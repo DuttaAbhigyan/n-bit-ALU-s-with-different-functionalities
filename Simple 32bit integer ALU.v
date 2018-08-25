@@ -1,3 +1,7 @@
+/*Description: In this code I have implemented various simple 32 bit Integer Arithmetic modules namely Full Adder (ripple 
+carry), Subtractor, 16bit multiplicator, Comparator, 1's complement, 2's complement, biteise AND, bitwise OR. All the 
+implemented modules are created using gate level modelling wherever possible*/
+
 /* Different modules/componrnts using gate level design for a 32 bit ALU is described below*/
 
 /*Multiplexer module to decide the operation to be performed*/
